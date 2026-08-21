@@ -1,0 +1,30 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      OPENFIGI_API_KEY: ${OPENFIGI_API_KEY:-}
+    volumes:
+      # Transaction exports stay on the host and are read by the backend.
+      - ./data:/app/data:ro
+
+      # Generated metadata and logs survive container rebuilds.
+      - ./metadata:/app/metadata
+      - ./logs:/app/logs
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        # Vite embeds this value into the browser bundle during the build.
+        VITE_API_URL: http://127.0.0.1:8000
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+    restart: unless-stopped

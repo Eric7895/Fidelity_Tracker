@@ -1,0 +1,93 @@
+symbol,security_name,security_type,security_type_raw,security_source
+ETH/USD,Ethereum,crypto,crypto,manual
+AAPL,APPLE INC,common_stock,Common Stock,openfigi
+ACHR,ARCHER AVIATION INC-A,common_stock,Common Stock,openfigi
+ADBE,ADOBE INC,common_stock,Common Stock,openfigi
+AI,C3.AI INC-A,common_stock,Common Stock,openfigi
+AMAT,APPLIED MATERIALS INC,common_stock,Common Stock,openfigi
+AMD,ADVANCED MICRO DEVICES,common_stock,Common Stock,openfigi
+AMZN,AMAZON.COM INC,common_stock,Common Stock,openfigi
+APLD,APPLIED DIGITAL CORP,common_stock,Common Stock,openfigi
+ASTS,AST SPACEMOBILE INC,common_stock,Common Stock,openfigi
+AVGO,BROADCOM INC,common_stock,Common Stock,openfigi
+AVTR,AVANTOR INC,common_stock,Common Stock,openfigi
+BILI,BILIBILI INC-SPONSORED ADR,depositary_receipt,Depositary Receipt,openfigi
+BMNR,BITMINE IMMERSION TECHNOLOGI,common_stock,Common Stock,openfigi
+BTBT,BIT DIGITAL INC,common_stock,Common Stock,openfigi
+BURU,NUBURU INC,common_stock,Common Stock,openfigi
+CEG,CONSTELLATION ENERGY,common_stock,Common Stock,openfigi
+CNC,CENTENE CORP,common_stock,Common Stock,openfigi
+COST,COSTCO WHOLESALE CORP,common_stock,Common Stock,openfigi
+CRCL,CIRCLE INTERNET GROUP INC,common_stock,Common Stock,openfigi
+CRM,SALESFORCE INC,common_stock,Common Stock,openfigi
+CRWD,CROWDSTRIKE HOLDINGS INC - A,common_stock,Common Stock,openfigi
+CRWV,COREWEAVE INC-CL A,common_stock,Common Stock,openfigi
+CYN,CYNGN INC,common_stock,Common Stock,openfigi
+DRAM,ROUNDHILL MEMORY ETF,etf,Mutual Fund,openfigi
+ENB,ENBRIDGE INC,common_stock,Common Stock,openfigi
+FCNTX,FIDELITY CONTRAFUND,mutual_fund,Mutual Fund,openfigi
+FSPGX,FIDELITY L/C GR INDX,mutual_fund,Mutual Fund,openfigi
+GFS,GLOBALFOUNDRIES INC,common_stock,Common Stock,openfigi
+GOOGL,ALPHABET INC-CL A,common_stock,Common Stock,openfigi
+GPRO,GOPRO INC-CLASS A,common_stock,Common Stock,openfigi
+GPUS,HYPERSCALE DATA INC,common_stock,Common Stock,openfigi
+HALO,HALOZYME THERAPEUTICS INC,common_stock,Common Stock,openfigi
+HIMS,HIMS & HERS HEALTH INC,common_stock,Common Stock,openfigi
+HOLO,MICROCLOUD HOLOGRAM INC,common_stock,Common Stock,openfigi
+HOOD,ROBINHOOD MARKETS INC - A,common_stock,Common Stock,openfigi
+IBM,INTL BUSINESS MACHINES CORP,common_stock,Common Stock,openfigi
+INTC,INTEL CORP,common_stock,Common Stock,openfigi
+JD,JD.COM INC-ADR,depositary_receipt,Depositary Receipt,openfigi
+LIDR,AEYE INC,common_stock,Common Stock,openfigi
+LLY,ELI LILLY & CO,common_stock,Common Stock,openfigi
+MBIO,MUSTANG BIO INC,common_stock,Common Stock,openfigi
+META,META PLATFORMS INC-CLASS A,common_stock,Common Stock,openfigi
+MSTZ,T-REX 2X INVERSE MSTR DT ETF,etf,Mutual Fund,openfigi
+MU,MICRON TECHNOLOGY INC,common_stock,Common Stock,openfigi
+MUU,DIREXION DAILY MU BULL 2X ET,mutual_fund,Mutual Fund,openfigi
+NFLX,NETFLIX INC,common_stock,Common Stock,openfigi
+NKE,NIKE INC -CL B,common_stock,Common Stock,openfigi
+NOW,SERVICENOW INC,common_stock,Common Stock,openfigi
+NVDA,NVIDIA CORP,common_stock,Common Stock,openfigi
+NVTS,NAVITAS SEMICONDUCTOR CORP,common_stock,Common Stock,openfigi
+OKLO,OKLO INC,common_stock,Common Stock,openfigi
+OPEN,OPENDOOR TECHNOLOGIES INC,common_stock,Common Stock,openfigi
+PEP,PEPSICO INC,common_stock,Common Stock,openfigi
+PLTR,PALANTIR TECHNOLOGIES INC-A,common_stock,Common Stock,openfigi
+POET,POET TECHNOLOGIES INC,common_stock,Common Stock,openfigi
+PONY,PONY AI INC,depositary_receipt,Depositary Receipt,openfigi
+QBTS,D-WAVE QUANTUM INC,common_stock,Common Stock,openfigi
+RKLB,ROCKET LAB CORP,common_stock,Common Stock,openfigi
+SBET,SHARPLINK INC,common_stock,Common Stock,openfigi
+SCHD,SCHWAB US DVD EQUITY ETF,etf,Mutual Fund,openfigi
+SEPN,SEPTERNA INC,common_stock,Common Stock,openfigi
+SMCI,SUPER MICRO COMPUTER INC,common_stock,Common Stock,openfigi
+SNAP,SNAP INC - A,common_stock,Common Stock,openfigi
+SOFI,SOFI TECHNOLOGIES INC,common_stock,Common Stock,openfigi
+SOXL,DIREX DAIL SEMI BU 3X ET-USD,mutual_fund,Mutual Fund,openfigi
+SPAXX,FIDELITY GOVT MMKT,mutual_fund,Mutual Fund,openfigi
+SPCX,SPACE EXPLORATION TECHN-CL A,common_stock,Common Stock,openfigi
+SPOT,SPOTIFY TECHNOLOGY SA,common_stock,Common Stock,openfigi
+SQQQ,PROSHARES ULTRAPRO SHORT QQQ,mutual_fund,Mutual Fund,openfigi
+TELO,TELOMIR PHARMACEUTICALS INC,common_stock,Common Stock,openfigi
+TEM,TEMPUS AI INC-CL A,common_stock,Common Stock,openfigi
+TMQ,TRILOGY METALS INC,common_stock,Common Stock,openfigi
+TNA,DIR DAI SML CA BUL 3X ET-USD,mutual_fund,Mutual Fund,openfigi
+TSDD,GRANITESH 2X SHT TSLA ETF,etf,Mutual Fund,openfigi
+TSLA,TESLA INC,common_stock,Common Stock,openfigi
+UAVS,AGEAGLE AERIAL SYSTEMS INC,common_stock,Common Stock,openfigi
+UNH,UNITEDHEALTH GROUP INC,common_stock,Common Stock,openfigi
+VLRS,CONTROLADORA VUELA CIA-ADR,depositary_receipt,Depositary Receipt,openfigi
+VOO,VANGUARD S&P 500 ETF,etf,Mutual Fund,openfigi
+VOYG,VOYAGER TECHNOLOGIES INC-A,common_stock,Common Stock,openfigi
+VZ,VERIZON COMMUNICATIONS INC,common_stock,Common Stock,openfigi
+XYZ,BLOCK INC,common_stock,Common Stock,openfigi
+AMOD,ALPHA MODUS HOLDINGS INC,common_stock,Common Stock,openfigi
+IXHL,INCANNEX HEALTHCARE INC,common_stock,Common Stock,openfigi
+PMN,PROMIS NEUROSCIENCES INC,common_stock,Common Stock,openfigi
+SOXS,DIREX DAI SEMI BE 3X ETF-USD,etf,Mutual Fund,openfigi
+SPXS,DIRX DAI S&P500 B 3X ETF-USD,etf,Mutual Fund,openfigi
+TSLZ,T-REX 2X INVERSE TESLA DLY,mutual_fund,Mutual Fund,openfigi
+WLDS,WEARABLE DEVICES LTD,common_stock,Common Stock,openfigi
+SMLR,SEMLER SCIENTIFIC INC,common_stock,Common Stock,manual
+SYTA,SIYATA MOBILE INC,common_stock,Common Stock,manual

@@ -1,0 +1,17 @@
+.git
+.gitignore
+.env
+.venv
+venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.ipynb_checkpoints
+
+# These are mounted at runtime instead of copied into the backend image.
+data
+metadata
+logs
+
+frontend/node_modules
+frontend/dist
