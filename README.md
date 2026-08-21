@@ -4,6 +4,16 @@ A self-hosted portfolio tracking application for analyzing Fidelity transaction 
 
 Fidelity Tracker processes exported Fidelity transaction CSV files, enriches security metadata, calculates portfolio statistics, and presents the results through an interactive dashboard. The application is designed for local use and does not require a database.
 
+## Dashboard Preview
+
+<p align="center">
+  <img src="pic/pic.png" alt="Fidelity Tracker Dashboard" width="100%">
+</p>
+
+<p align="center">
+  <em>Demo screenshot with anonymized account information and modified financial values.</em>
+</p>
+
 ## Features
 
 - Import Fidelity transaction history from CSV
